@@ -1,0 +1,6 @@
+{
+  "name": "Sarthak - Cooperative ERP, LMS & Employment Ecosystem",
+  "description": "AI-enabled digital cooperative capacity-building ecosystem connecting training, attendance, assessment, digital skill passport, AI skill gap analysis, and employment linkage.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
